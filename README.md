@@ -12,5 +12,5 @@ Open the included Sketch file in Sketch.
 
 ## Acknowledgments
 
-* Thank you to the PopOver team for letting me work with you all! Thank you additionally to [Tom Offer](https://www.sketchappsources.com/contributor/tomeroffer)
-* for use of his graphics in this application.
+Thank you to the PopOver team for letting me work with you all! Thank you additionally to [Tom Offer](https://www.sketchappsources.com/contributor/tomeroffer)
+for use of his graphics in this application.
